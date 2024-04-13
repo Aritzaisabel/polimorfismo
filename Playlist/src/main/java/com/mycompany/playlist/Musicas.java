@@ -23,7 +23,7 @@ int time;
   date=_date;
   time=_time;*/
        
-//Segumda forma
+//Segunda forma
 public  Musicas (String title, String album,String date,int time){
     this.title=title;
     this.album=album;
@@ -37,6 +37,4 @@ public void ShowPlaylist(){
     System.out.println("Time"+time);
   }
 }
-
-
 
