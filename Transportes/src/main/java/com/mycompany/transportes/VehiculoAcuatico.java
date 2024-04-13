@@ -8,6 +8,10 @@ package com.mycompany.transportes;
  *
  * @author alvar
  */
+
+
+
+
 public class VehiculoAcuatico  extends Vehiculo{
     private String tipoPropulsion;
     

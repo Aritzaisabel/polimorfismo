@@ -20,5 +20,4 @@ public class VehiculoAereo extends Vehiculo{
         super.mostrarinfo();
         System.out.println("numero de ruedas: "+numRuedas );
     }
-}    
-
+}

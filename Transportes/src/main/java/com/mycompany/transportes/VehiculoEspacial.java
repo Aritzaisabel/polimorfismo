@@ -20,5 +20,4 @@ public class VehiculoEspacial  extends Vehiculo{
         System.out.println("Tipo de resistencia "+ resistenciaTermica);
 }
     
-}  
-
+} 

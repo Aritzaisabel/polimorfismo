@@ -14,7 +14,7 @@ public static void main(String[]args){
     VehiculoTerrestre vehiculoTerrestre=new VehiculoTerrestre(" Mattel"," Terreneito",4);
     VehiculoAcuatico vehiculoAcuatico=new VehiculoAcuatico(" Lancha"," Yamaha,"," Motor prr prr");
     VehiculoAereo vehiculoAereo=new VehiculoAereo(" Being"," Airbus",3);
-    VehiculoEspacial vehiculoEspacial=new VehiculoEspacial(" chjkdchjs"," jfsdjf","654");
+    VehiculoEspacial vehiculoEspacial=new VehiculoEspacial(" Chirlls"," Frerks","654");
     //mostrar informacion de los vehuiculos 
     System.out.println("Información del vehículo terrestre : ");
     vehiculoTerrestre.mostrarInfo();
@@ -29,6 +29,3 @@ public static void main(String[]args){
     vehiculoEspacial.mostrarInfo();
 }
 }
-
-
-   
